@@ -1,3 +1,14 @@
+/*
+   a
+   ___
+f |   | b
+  |   |
+   _g_
+e |   | c
+  |   |
+   ___    . 
+    d     p
+*/
 
 //the pins of 4-digit 7-segment display
 int a = 2;
